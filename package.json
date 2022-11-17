@@ -1,0 +1,11 @@
+{
+  "name": "cm-bruteforce",
+  "version": "1.0.0",
+  "description": "A program which seeks the inputs and outputs of a codemarker task, and writes the python neccecary to complete it.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bilbo1Gaming",
+  "license": "ISC"
+}
